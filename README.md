@@ -8,12 +8,12 @@ O QuickThink é um sistema web de uso interno para gerenciamento de soluções t
 
 ### Integrantes 
 
-- Gabriel Victor Souza Almeida => Full-Stack
-- Eduardo Felipe => Full-Stack
-- Catarina Sayuri => Front-End 
+- Gabriel => Full-Stack
+- Eduardo => Full-Stack
+- Catarina => Front-End 
 - Heitor => Front-End
 - Fernando => Front-End
-- Guilherme Garbelimi => Front-End
+- Guilherme => Front-End
 
 ### Divisão de tarefas
 
